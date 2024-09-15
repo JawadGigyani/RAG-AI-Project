@@ -6,3 +6,4 @@ langchain
 faiss-cpu
 torch
 transformers
+langchain_community
