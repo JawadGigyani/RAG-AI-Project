@@ -7,3 +7,4 @@ faiss-cpu
 torch
 transformers
 langchain_community
+pypdf
